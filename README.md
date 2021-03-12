@@ -8,4 +8,7 @@
 
 - ​	React
 
-  ![vfgfgf](https://user-images.githubusercontent.com/30630150/110987930-9bd44680-834e-11eb-9b33-375f8fb776aa.png)
+![vfgfgf](https://user-images.githubusercontent.com/30630150/110987930-9bd44680-834e-11eb-9b33-375f8fb776aa.png)
+
+![hjhgjhj](https://user-images.githubusercontent.com/30630150/110988053-c8885e00-834e-11eb-9d2a-57251d0f13d4.png)
+
